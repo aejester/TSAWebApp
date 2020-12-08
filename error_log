@@ -1,0 +1,20 @@
+[08-Dec-2020 08:51:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/aeneasb/public_html/TSAWebApp/backend/includes/table.php:19
+Stack trace:
+#0 /home/aeneasb/public_html/TSAWebApp/events.php(54): include()
+#1 {main}
+  thrown in /home/aeneasb/public_html/TSAWebApp/backend/includes/table.php on line 19
+[08-Dec-2020 08:51:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/aeneasb/public_html/TSAWebApp/backend/includes/table.php:19
+Stack trace:
+#0 /home/aeneasb/public_html/TSAWebApp/events.php(54): include()
+#1 {main}
+  thrown in /home/aeneasb/public_html/TSAWebApp/backend/includes/table.php on line 19
+[08-Dec-2020 09:18:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/aeneasb/public_html/TSAWebApp/backend/includes/table.php:19
+Stack trace:
+#0 /home/aeneasb/public_html/TSAWebApp/teams.php(54): include()
+#1 {main}
+  thrown in /home/aeneasb/public_html/TSAWebApp/backend/includes/table.php on line 19
+[08-Dec-2020 10:54:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/aeneasb/public_html/TSAWebApp/backend/includes/table.php:19
+Stack trace:
+#0 /home/aeneasb/public_html/TSAWebApp/events.php(55): include()
+#1 {main}
+  thrown in /home/aeneasb/public_html/TSAWebApp/backend/includes/table.php on line 19
