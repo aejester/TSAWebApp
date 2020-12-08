@@ -1,7 +1,7 @@
 # TSAWebApp
 ## Database Add-ons
 
-  >-- Table structure for table `users`
+  > #### Table structure for table `users`
   >
   >CREATE TABLE `users` (
   >  `id` int(4) DEFAULT NULL,
@@ -23,7 +23,7 @@
   >  ADD UNIQUE KEY `id` (`id`);
   >COMMIT;
 
-  >-- Table structure for table `events`
+  > #### Table structure for table `events`
   >
   >CREATE TABLE `events` (
   >  `id` int(11) NOT NULL,
@@ -49,7 +49,7 @@
   >  ADD PRIMARY KEY (`id`);
   >COMMIT;
 
-  >-- Table structure for table `registration`
+  > #### Table structure for table `registration`
   >
   >CREATE TABLE `registration` (
   >  `id` tinyint(4) NOT NULL,
